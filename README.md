@@ -3,7 +3,7 @@
 Welcome to the mango juice store Landing Page repository! This repository contains the HTML and CSS code for a visually appealing landing page designed for a selling fruit juice, with a focus on showcasing various varieties of Juices. The landing page features sections such as About Us, Varieties, Our Service, Benefits, and Contact, providing users with comprehensive information about the mango juice store and its offerings. Whether you're a fruit juice enthusiast or a potential customer, explore the repository to discover the freshness, variety, and satisfaction offered by our premium fruits.
 
 
-## Tech Stack
+
 
 #### Technologies Used:
 - **HTML**: The structure of the landing page is built using HTML (Hypertext Markup Language), providing the foundation for the content and layout.
