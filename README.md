@@ -23,7 +23,7 @@ Welcome to the mango juice store Landing Page repository! This repository contai
 #### External Resources:
 - **Google Fonts**: Custom fonts from Google Fonts library were utilized to enhance the typography of the landing page.
 - **Images**: Images used in the landing page are directly provided in the code.
-- **YouTube**: The embedded YouTube video showcasing the 9 benefits of  drinking mango juice was sourced from YouTube, enriching the content of the landing page. The embedded YouTube video showcasing the benefits of apples is sourced from [YouTube](https://youtu.be/YSayi7P06G4?si=VOJ1QwTeCF5vUkg9).
+- **YouTube**: The embedded YouTube video showcasing the 9 benefits of  drinking mango juice was sourced from YouTube, enriching the content of the landing page. The embedded YouTube video showcasing the benefits of mango juice is sourced from [YouTube](https://youtu.be/YSayi7P06G4?si=VOJ1QwTeCF5vUkg9).
 
 
 ## Authors
